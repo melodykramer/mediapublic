@@ -7,7 +7,6 @@ title:  "Structure and Plan"
 
 I'm doing a few things:
 
-
 ### User Research
 
 I have conducted user research interviews with people who work at stations as well as people who listen to a lot of public media but are not members. I am also planning to conduct a randomized survey on the street to learn what people think of public media membership and membership in general.
@@ -18,11 +17,16 @@ There are many organizations outside of public media that grapple with the same 
 
 ### Tool Kit
 
-With the help of the developer community, I am in the process of creating several pieces of software that will help potential members find stations, and potential stations find members. These are based on extensive user research with both potential members and stations.
+With the help of the developer community, I am in the process of creating several pieces of software that will help potential members find stations, and potential stations find members. All of these are open source and are based on extensive user research with both potential members and stations.
+
+I am also in the process of finding homes for all of these things and developing ways to make them sustainable.
 
 ### Recruiting and then Tracking Stations
 
-I have recruited a number of stations from around the country to participate in a pilot project. At each station, we are identifying a cohort of people who have or will contribute in some meaningful way to the station, and giving those people a year of membership—with all of the benefits that people who contribute financially receive.
+I have recruited a number of stations from around the country to participate in a pilot project. At each station, we are identifying a cohort of people who have or will contribute in some meaningful way to the station, and giving those people a year of membership—with all of the benefits that people who contribute financially receive. I will track this cohort of people through interviews and some data, and hope to present it next summer.
+
+I am also determining what the pain points are currently for stations. For example, much of the membership correspondence from stations is automated. I am crafting alternative messaging and working with vendors who send out the renewal notices, to determine how best to send alternative mailings. I am also talking with the CPB about in-kind donations, tax questions, and other things people at stations have told me they want to know.
+
 
 ### What are the goals of the project?
 
@@ -31,6 +35,8 @@ I have recruited a number of stations from around the country to participate in 
 2. To help public media think beyond financial forms of membership.
 
 3. To articulate pain points within public media through user research and testing.
+
+4. To build some tools that will help stations communicate with one another.
 
 ### How are you structuring the project?
 
@@ -45,7 +51,7 @@ A lot. I'm calling this the Media Public Planning Sprint. We will:
 
 2) Write up everything I've learned so far and everything we've read / all of the research that might be helpful.
 
-3) Make a list of people to talk to 
+3) Make a list of people to talk to
 
 3a) Answer all of the email related to this project
 
