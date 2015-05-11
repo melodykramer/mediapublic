@@ -1,0 +1,69 @@
+# Base configuration
+permalink: /:title
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+markdown: kramdown
+highlighter: pygments
+
+# Title
+name: Media Public
+subtitle: putting the people in public media
+
+# When using this template with a project page set the baseurl to '/project-name'
+# For user/organization pages set this to an empty string
+# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
+# See http://jekyllrb.com/docs/github-pages/ for more info
+#baseurl: ''
+baseurl: jekyll serve --baseurl ''
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: Melody Kramer
+  url: http://melodykramer.github.io
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl: assets/img/mediapublic-logo.png
+logoalt: Media Public logo
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Introduction
+  url: index.html
+  internal: true
+- text: Background
+  url: background.html
+  internal: true
+- text: Case Studies
+  url: casestudies.html
+  internal: true
+- text: The Plan
+  url: theplan.html
+  internal: true
+- text: The Progress
+  url: theprogress.html
+  internal: true
+- text: The Toolkit
+  url: toolkit.html
+  internal: true
+- text: The Playbook
+  url: playbook.html
+  internal: true
+- text: Who's Behind This?
+  url: melodykramer.html
+  internal: true
+- text: How Can I Help?
+  url: pleasehelp.html
+  internal: true
+#- text: DOCter Repo
+#  url: https://github.com/cfpb/DOCter
+#  internal: false
+
+# Repo list
+# List repos that you would like to appear on the homepage here
+repos:
+- name: mediapublic
+  description: Main repository
+  url: https://github.com/melodykramer/mediapublic
+
+# Style Variables
+brand_color: "#25646a"
