@@ -6,8 +6,11 @@ title:  "Sprint Progress"
 Sprint One: Media Public Research Sprint.
 
 [Day 1:Acclimating to Harvard](http://melodykramer.github.io/2015/05/04/mediapublic-day-one/)
+
 [Day 2: Lots of Email and Meetings](http://melodykramer.github.io/2015/05/05/day-two-is-when-good-ideas-start-flowing/)
+
 [Day 3 and 4: 400 emails, talked to PBS](http://melodykramer.github.io/2015/05/08/days-three-and-four/)
+
 [Day 5: User Research with Member Stations](http://melodykramer.github.io/2015/05/11/day-five-talking-to-stations-and-doing-user-research/)
 
 ## How the fellowship is being constructed
