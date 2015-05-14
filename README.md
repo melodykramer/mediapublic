@@ -26,8 +26,8 @@ gem install kramdown
 Fork and clone the repo:
 
 ```
-git clone git@github.com:18F/agile.git
-cd agile
+git clone https://github.com/melodykramer/mediapublic.git
+cd mediapublic
 ```
 Run Jekyll:
 
